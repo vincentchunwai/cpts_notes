@@ -1,3 +1,9 @@
+## Summary
+
+1. [PowerShell Remoting (WinRM)](#powershell-remoting-winrm)
+2. [Create a PowerShell Remoting Session to DATABASE01](#create-a-powershell-remoting-session-to-database01)
+3. [Copy samplefile.txt from our Localhost to the DATABASE01 Session](#copy-samplefiletxt-from-our-localhost-to-the-database01-session)
+4. [Copy DATABASE.txt from DATABASE01 Session to our Localhost](#copy-databasetxt-from-database01-session-to-our-localhost)
 
 ## PowerShell Remoting (WinRM)
 

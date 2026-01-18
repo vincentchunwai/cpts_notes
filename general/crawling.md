@@ -1,5 +1,12 @@
 # Crawling
 
+## Summary
+
+1. [Extracting Valuable information](#extracting-valuable-information)
+2. [Scrapy](#scrapy)
+3. [Create a Spider](#create-a-spider)
+4. [Run the Spider](#run-the-spider)
+
 ## Extracting Valuable information
 
 - **Links**: Extract links to other pages or resources.

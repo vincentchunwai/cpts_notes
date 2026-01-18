@@ -1,5 +1,10 @@
 # Mysql
 
+## Summary
+
+1. [Interaction with MySQL Server](#interaction-with-mysql-server)
+2. [MySQL Commands](#mysql-commands)
+
 Scanning MySQL Servers:
 
 ```bash

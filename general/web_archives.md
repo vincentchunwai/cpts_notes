@@ -1,5 +1,9 @@
 # Web Archives
 
+## Summary
+
+1. [Wayback Machine](#wayback-machine)
+
 ## Wayback Machine
 
 - Description: A digital archive of the World Wide Web, allowing users to see archived versions of web pages across time.

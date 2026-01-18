@@ -1,3 +1,9 @@
+## Summary
+
+1. [Python 3 Download](#python-3-downlaod)
+2. [PHP Download with File_get_contents()](#php-download-with-file_getcontents)
+3. [PHP Download with Fopen()](#php-download-with-fopen)
+4. [PHP Download a File and Pipe it to Bash](#php-download-a-file-and-pipe-it-to-bash)
 
 ## Python 3 Downlaod
 

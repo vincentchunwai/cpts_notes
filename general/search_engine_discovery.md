@@ -1,5 +1,11 @@
 # Search Engine Discovery
 
+## Summary
+
+1. [Incentives for Search Engine Discovery](#incentives-for-search-engine-discovery)
+2. [Search Operators](#search-operators)
+3. [Google Dorks](#google-dorks)
+
 **OSINT** Open Source Intelligence (OSINT)
 
 

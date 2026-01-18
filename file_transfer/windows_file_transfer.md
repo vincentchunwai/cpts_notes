@@ -1,5 +1,18 @@
 # Windows File Transfer Methods
 
+## Summary
+
+1. ["Microsoft Astaroth Attack" - Using BITSAdmin to Transfer Files](#microsoft-astaroth-attack---using-bitsadmin-to-transfer-files)
+2. [PowerShell Base64 encode and decode](#powershell-base64-encode-and-decode)
+3. [PowerShell Web Downloads](#powershell-web-downloads)
+4. [SMB Downloads](#smb-downloads)
+5. [FTP Downloads](#ftp-downloads)
+6. [Upload Operations](#upload-operations)
+7. [Powershell Web Uploads](#powershell-web-uploads)
+8. [Powershell Base64 Web Uploads](#powershell-base64-web-uploads)
+9. [SMB Uploads](#smb-uploads)
+10. [FTP Uploads](#ftp-uploads)
+
 ## "Microsoft Astaroth Attack" - Using BITSAdmin to Transfer Files
 
 1. malicious link in a spear-phishing email led to LNK file

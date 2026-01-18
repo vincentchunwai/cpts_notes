@@ -1,5 +1,11 @@
 # DNS
 
+## Summary
+
+1. [Footprinting DNS](#footprinting-dns)
+2. [Zone Transfer](#zone-transfer)
+3. [Metasploit Modules and Nmap Scripts](#metasploit-modules-and-nmap-scripts)
+4. [Virtual Host](#virtual-host)
 
 ## Footprinting DNS
 

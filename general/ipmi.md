@@ -1,5 +1,12 @@
 # IPMI (Intelligent Platform Management Interface)
 
+## Summary
+
+1. [Nmap Scanning](#nmap-scanning)
+2. [Metasploit version scan](#metasploit-version-scan)
+3. [Metasploit Dumping Hashes](#metasploit-dumping-hashes)
+4. [Password Cracking](#password-cracking)
+
 Nmap:
 
 ```bash

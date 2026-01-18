@@ -1,5 +1,15 @@
 # Oracle TNS (Oracle Transparent Network Substrate)
 
+## Summary
+
+1. [Default Configuration](#default-configuration)
+2. [ODAT (Oracle Database Attack Tool)](#odat-oracle-database-attack-tool)
+3. [Scanning](#scanning)
+4. [Nmap - SID Bruteforcing](#nmap---sid-bruteforcing)
+5. [SQLplus](#sqlplus)
+6. [Oracle RDBMS - File Upload](#oracle-rdbms---file-upload)
+7. [Tools Setup](#tools-setup)
+
 [IPX/SPX] is a protocol used by Oracle databases for communication between clients and servers. It is often used in environments where Oracle databases are deployed.
 
 [finger service] is a network service that allows users to query information about other users on a network. It can be used to gather information about users, such as their login names, home directories, and other details.

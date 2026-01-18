@@ -1,5 +1,12 @@
 ## Simple Network Management Protocol (SNMP)
 
+## Summary
+
+1. [SNMP Daemon Config](#snmp-daemon-config)
+2. [Dangerous Settings](#dangerous-settings)
+3. [Footprinting the Service](#footprinting-the-service)
+4. [Tools Overview](#tools-overview)
+
 SNMP Daemon Config:
 
 cat /etc/snmp/snmpd.conf | grep -v "#" | sed -r '/^\s*$/d'

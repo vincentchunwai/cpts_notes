@@ -1,5 +1,10 @@
 # Well-Known URIs
 
+## Summary
+
+1. [Common Well-Known URIs](#common-well-known-uris)
+2. [Exploration implications for Openid-configuration](#exploration-implications-for-openid-configuration)
+
 The .well-known URI path prefix is defined in [RFC 5785](https://datatracker.ietf.org/doc/html/rfc5785) and is used to define a standard location for well-known resources on a web server. These resources are typically used for configuration, discovery, or other purposes that require a consistent and predictable URL structure.
 
 ## Common Well-Known URIs

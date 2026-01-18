@@ -1,5 +1,16 @@
 # Windows Remote Management Protocols
 
+## Summary
+
+1. [Remote Desktop Protocol (RDP)](#remote-desktop-protocol-rdp)
+2. [Footprinting RDP](#footprinting-rdp)
+3. [RDP Security Check - Installation](#rdp-security-check---installation)
+4. [Connecting to RDP on Linux](#connecting-to-rdp-on-linux)
+5. [WinRM (Windows Remote Management)](#winrm-windows-remote-management)
+6. [Footprinting WinRM](#footprinting-winrm)
+7. [WMI (Windows Management Instrumentation)](#wmi-windows-management-instrumentation)
+8. [Footprinting WMI](#footprinting-wmi)
+
 ## Remote Desktop Protocol (RDP)
 
 * Network Level Authentication (NLA) is a security feature that requires authentication before a session is established.

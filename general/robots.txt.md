@@ -1,5 +1,10 @@
 # Robots.txt
 
+## Summary
+
+1. [Common Directives](#common-directives)
+2. [Robots.txt in Web Reconnaissance](#robotstxt-in-web-reconnaissance)
+
 A `robots.txt` file is a text file that website owners create to instruct web robots (typically search engine crawlers) how to crawl and index pages on their website. It is part of the Robots Exclusion Protocol (REP) and is used to manage and control the behavior of web crawlers.
 
 ## Common Directives

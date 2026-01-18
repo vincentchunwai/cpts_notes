@@ -1,5 +1,10 @@
 # WHOIS
 
+## Summary
+
+1. [WHOIS Example](#whois-example)
+2. [Using WHOIS](#using-whois)
+
 ## WHOIS Example
 
 ```bash

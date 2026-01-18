@@ -1,5 +1,11 @@
 # Subdomain Bruteforcing
 
+## Summary
+
+1. [Wordlist Selection and Process](#wordlist-selection)
+2. [Tools](#tools)
+3. [crt.sh lookup](#crtsh-lookup)
+
 1. Wordlist Selection
 
 - General Purpose

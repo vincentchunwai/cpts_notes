@@ -1,6 +1,11 @@
 Web Reconnaissance
 ==================
 
+## Summary
+
+1. [Active Reconnaissance](#active-reconnaissance)
+2. [Passive Reconnaissance](#passive-reconnaissance)
+
 Active Reconnaissance
 ====================
 

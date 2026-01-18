@@ -1,5 +1,11 @@
 # Fingerprinting
 
+## Summary
+
+1. [Fingerprinting techniques](#fingerprinting-techniques)
+2. [Tools for Fingerprinting](#tools-for-fingerprinting)
+3. [Install Nikto](#install-nikto)
+4. [Run Nikto](#run-nikto)
 
 1. Targeted Attacks
 

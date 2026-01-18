@@ -1,5 +1,8 @@
 # Automating Web Recon
 
+## Summary
+
+1. [Tools](#tools)
 
 ## Tools
 

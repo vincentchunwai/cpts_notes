@@ -1,3 +1,12 @@
+## Summary
+
+1. [Base64 Encoding / Decoding](#base64-encoding--decoding)
+2. [Web Downloads with Wget and cURL](#web-downloads-with-wget-and-curl)
+3. [Download with Bash (/dev/tcp)](#download-with-bash-devtcp)
+4. [SSH Downloads](#ssh-downloads)
+5. [Web Upload](#web-upload)
+6. [SCP Upload](#scp-upload)
+7. [RDP](#rdp)
 
 ## Base64 Encoding / Decoding
 

@@ -1,5 +1,13 @@
 ## Footprinting Lab Hard
 
+## Summary
+
+1. [Check ports without service banner](#check-ports-without-service-banner)
+2. [Scanning](#scanning)
+3. [Connecting to imap service](#connecting-to-imap-service)
+4. [Footprinting SNMP](#footprinting-snmp)
+5. [Imaps Commands](#imaps-commands)
+
 # Check ports without service banner
 
 ```bash

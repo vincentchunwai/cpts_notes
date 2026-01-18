@@ -1,3 +1,15 @@
+## Summary
+
+1. [NetCat - Compromised Machine - Listening on Port 8000](#netcat---compromised-machine---listening-on-port-8000)
+2. [Netcat - Attack Host - Sending File to Compromised machine](#netcat---attack-host---sending-file-to-compromised-machine)
+3. [Ncat - Attack Host - Sending File to Compromised machine](#ncat---attack-host---sending-file-to-compromised-machine)
+4. [Attack Host - Sending File as Input to Netcat](#attack-host---sending-file-as-input-to-netcat)
+5. [Compromised Machine Connect to Netcat to Receive the File](#compromised-machine-connect-to-netcat-to-receive-the-file)
+6. [Attack Host - Sending File as Input to Ncat](#attack-host---sending-file-as-input-to-ncat)
+7. [Compromised Machine Connect to Ncat to Receive the File](#compromised-machine-connect-to-ncat-to-receive-the-file)
+8. [NetCat - Sending File as Input to Netcat](#netcat---sending-file-as-input-to-netcat)
+9. [Ncat - Sending File as Input to Ncat](#ncat---sending-file-as-input-to-ncat)
+10. [Compromised Machine Connecting to Netcat Using /dev/tcp to Receive the File](#compromised-machine-connecting-to-netcat-using-devtcp-to-receive-the-file)
 
 #### NetCat - Compromised Machine - Listening on Port 8000
 
